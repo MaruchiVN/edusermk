@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "licenses": []
+  "licenses": [
+    {
+      "id": "VT-ANH",
+      "keyHash": "781ec228bc3eb00cf88c0abaeb442ee6958246a5cabe538b3806e1d34213d749",
+      "browserHash": "7ab14035744965ae6ac9ea215feaaecce1f2d18651c93f7391abf7299b83c258",
+      "enabled": true,
+      "origin": "https://ed22.engdis.com",
+      "expiresAt": "2026-11-04T01:58:56.708Z",
+      "createdAt": "2026-10-28T01:58:56.708Z"
+    }
+  ]
 }
