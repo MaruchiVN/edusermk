@@ -1,3 +1,4 @@
+
 {
   "version": 1,
   "licenses": [
@@ -9,6 +10,15 @@
       "origin": "https://ed22.engdis.com",
       "expiresAt": "2026-11-08T14:25:54.010Z",
       "createdAt": "2026-11-01T14:25:54.015Z"
+    },
+    {
+      "id": "DA-Test",
+      "keyHash": "65164fc3fb1ce34d8ab0ce119e408d505ba007a6ff8e27426da9f540f96b5443",
+      "browserHash": "233dcb70b2810bfa3cb4ef1cd95e5511bda0214e4df07c8c83c16e3636f8e9d0",
+      "enabled": true,
+      "origin": "https://ed22.engdis.com",
+      "expiresAt": "2027-11-12T00:00:00.000Z",
+      "createdAt": "2026-11-12T06:21:00.000Z"
     }
   ]
 }
